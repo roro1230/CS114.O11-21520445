@@ -3,13 +3,13 @@
 
 **TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN**
 
-**ĐỒ ÁN CUỐI KỲ MÔN MÁY HỌC - CS114.N21**
+**ĐỒ ÁN CUỐI KỲ MÔN MÁY HỌC - CS114.O11**
 
 
 
 **ĐỒ ÁN: MOTOBIKE NUMBER LICENSE PLATE RECOGNITION**
 
-Lớp: CS114.N21
+Lớp: CS114.O11
 
 Giảng viên: TS. Lê Đình Duy, ThS. Phạm Nguyễn Trường An
 
