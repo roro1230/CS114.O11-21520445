@@ -39,8 +39,10 @@ Tiêu chí mà nhóm sử dụng để đánh giá một mô hình có thể xem
 - Dữ liệu được thu thập thủ công ở bãi giữ xe UIT.
 - Bộ dataset là ảnh các biển số xe, chúng em tiến hành chụp ảnh bằng điện thoại thu được một dataset có 348 ảnh, các ảnh có tính chất là đều có thể nhìn rõ và đọc được các chữ và số ghi trên biển số. Mỗi ảnh có kích thước là 4000x2250px (width x height).
 - Các ảnh sau khi được thu thập sẽ được đổi tên theo định dạng S*.jpg (với * chạy từ 1 đến 348) (VD: 29-S1 503 88.jpg). Sau đó tụi em tiến hành label các ảnh này bằng công cụ LabelImg để xác định bounding box và thể hiện qua file xml.
-- Thông tin trong một file xml bao gồm có tên folder nằm trong thẻ <folder>, tên của ảnh nằm trong thẻ <filename>, đường dẫn đến ảnh nằm trong thẻ <path>. Những thông tin này cho biết nguồn gốc của ảnh được label. Thông tin quan trọng nhất nằm trong thẻ <object> gồm có thẻ <name> lưu trữ tên của object với bounding box được label, và thẻ <bndbox> lưu trữ giá trị bounding box của object trong đó các giá trị (<xmin>, <ymin>), (<xmax>, <ymax>) lần lượt là giá trị tọa độ gốc trên bên trái và gốc dưới bên phải của bounding box. 
+- Thông tin trong một file xml bao gồm có tên folder nằm trong thẻ <folder>, tên của ảnh nằm trong thẻ <filename>, đường dẫn đến ảnh nằm trong thẻ <path>. Những thông tin này cho biết nguồn gốc của ảnh được label. Thông tin quan trọng nhất nằm trong thẻ <object> gồm có thẻ <name> lưu trữ tên của object với bounding box được label, và thẻ <bndbox> lưu trữ giá trị bounding box của object trong đó các giá trị (<xmin>, <ymin>), (<xmax>, <ymax>) lần lượt là giá trị tọa độ gốc trên bên trái và gốc dưới bên phải của bounding box.
+- 
 3. Mô tả về đặc trưng + feature engineering
+  
 4. Mô tả thuật toán máy học
 + Inception-ResNet-v2
 5. Đánh giá kết quả, kết luận: Kết quả f1-score cùng với IOU:
