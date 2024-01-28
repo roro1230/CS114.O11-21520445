@@ -1,4 +1,4 @@
-![image]([UIT-Image.png](https://github.com/roro1230/CS114.O11-21520445/blob/fdb46864a5ae1f78fce3c082995a15e9e2db0415/UIT-Image.png))
+![image](https://github.com/roro1230/CS114.O11-21520445/blob/fdb46864a5ae1f78fce3c082995a15e9e2db0415/UIT-Image.png)
 
 
 **TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN**
