@@ -45,4 +45,5 @@ Tiêu chí mà nhóm sử dụng để đánh giá một mô hình có thể xem
 #### 4. Mô tả thuật toán máy học  
 - Inception-ResNet-v2
 
-#### 5. Đánh giá kết quả, kết luận: Kết quả f1-score cùng với IOU:
+#### 5. Đánh giá kết quả, kết luận:  
+Kết quả f1-score cùng với IOU:
